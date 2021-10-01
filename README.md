@@ -2,6 +2,8 @@
 
 This repository
 
+video : [youtube](https://www.youtube.com/watch?v=xfzGZB4HhEE&ab_channel=freeCodeCamp.org)
+
 ## Course Outline
 
 * Section 1: Algorithmic Trading Fundamentals
