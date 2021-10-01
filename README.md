@@ -4,6 +4,8 @@ This repository
 
 video : [youtube](https://www.youtube.com/watch?v=xfzGZB4HhEE&ab_channel=freeCodeCamp.org)
 
+financial data provider [https://iexcloud.io/core-data-catalog/]()
+
 ## Course Outline
 
 * Section 1: Algorithmic Trading Fundamentals
